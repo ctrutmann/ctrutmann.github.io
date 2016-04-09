@@ -9,7 +9,7 @@ div#heading {
 
 #title {
   font-size: 45px;
-  font-style: bold;
+  font-weight: bold;
   text-align: center;
   font-family: 'Satisfy', cursive;
 }
@@ -27,7 +27,7 @@ nav {
   border: 5px solid black;
   text-align: center;
   font-size: 25px;
-  font-style: bold;
+  font-weight: bold;
   font-family: 'Satisfy', cursive;
 }
 
